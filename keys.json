@@ -1,41 +1,41 @@
 {
     "2024": {
-        "days": 5,
-        "access": [
-            "Visual",
+        "дни": 5,
+        "доступ": [
+            "Визуалный",
             "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
+            "ТриггерБот",
+            "АвтоПистолет",
+            "ЗайчикХоп"
         ],
-        "single_use": true,
-        "hwid": "83205c988ea4041a5460afb35fdddd86d3939e6ffb9ba93df33b82123ba49b5e",
-        "activated_by": "HOME45\\user"
+        "одиночное_исправно": ложный,
+        "хвид": нулевой,
+        "активировано_by": нулевой
     },
     "102356102356": {
-        "days": null,
-        "access": [
-            "Visual",
+        "дни": нулевой,
+        "доступ": [
+            "Визуалный",
             "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
+            "ТриггерБот",
+            "АвтоПистолет",
+            "ЗайчикХоп"
         ],
-        "single_use": false,
-        "hwid": null,
-        "activated_by": null
+        "одиночное_исправно": ложный,
+        "хвид": нулевой,
+        "активировано_by": нулевой
     },
     "15122002": {
-        "days": null,
-        "access": [
-            "Visual",
+        "дни": нулевой,
+        "доступ": [
+            "Визуалный",
             "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
+            "ТриггерБот",
+            "АвтоПистолет",
+            "ЗайчикХоп"
         ],
-        "single_use": false,
-        "hwid": null,
-        "activated_by": null
+        "одиночное_исправно": ложный,
+        "хвид": нулевой,
+        "активировано_by": нулевой
     }
 }
