@@ -9,8 +9,8 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": null,
-        "activated_by": null
+        "hwid": "8ff419ee076d24437ba9842d6616a134505687505813f84aa8f3993202ecc65e",
+        "activated_by": "NEWISH\\proph"
     },
     "2025": {
         "days": 5,
@@ -35,8 +35,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": "ca6c9201f04e8bc2dad6ab4f11e19c3134cec314c52aa9e6746fa45994437100",
-        "activated_by": "DESKTOP-696HRRE\\YOLA"
+        "hwid": null,
+        "activated_by": null
     },
     "6": {
         "days": 1,
