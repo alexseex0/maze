@@ -1,0 +1,20 @@
+{
+    "2024": {
+        "days": 5,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": true,
+        "hwid": null
+    },
+    "102356102356": {
+        "days": null,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": false,
+        "hwid": null
+    },
+    "15122002": {
+        "days": null,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": false,
+        "hwid": null
+    }
+}
