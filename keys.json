@@ -1,41 +1,30 @@
 {
     "2024": {
-        "дни": 5,
-        "доступ": [
-            "Визуалный",
-            "AimBot",
-            "ТриггерБот",
-            "АвтоПистолет",
-            "ЗайчикХоп"
-        ],
-        "одиночное_исправно": ложный,
-        "хвид": нулевой,
-        "активировано_by": нулевой
+        "days": 5,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": true,
+        "hwid": null,
+        "activated_by": null
     },
-    "102356102356": {
-        "дни": нулевой,
-        "доступ": [
-            "Визуалный",
-            "AimBot",
-            "ТриггерБот",
-            "АвтоПистолет",
-            "ЗайчикХоп"
-        ],
-        "одиночное_исправно": ложный,
-        "хвид": нулевой,
-        "активировано_by": нулевой
+ "2025": {
+        "days": 5,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": true,
+        "hwid": null,
+        "activated_by": null
+    },
+ "2026": {
+        "days": 5,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": true,
+        "hwid": null,
+        "activated_by": null
     },
     "15122002": {
-        "дни": нулевой,
-        "доступ": [
-            "Визуалный",
-            "AimBot",
-            "ТриггерБот",
-            "АвтоПистолет",
-            "ЗайчикХоп"
-        ],
-        "одиночное_исправно": ложный,
-        "хвид": нулевой,
-        "активировано_by": нулевой
+        "days": null,
+        "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"],
+        "single_use": false,
+        "hwid": null,
+        "activated_by": null
     }
 }
