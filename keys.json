@@ -50,14 +50,5 @@
         "single_use": false,
         "hwid": null,
         "activated_by": null
-    },
-    "3030": {
-        "days": 1,
-        "access": [
-            "AimBot"
-        ],
-        "single_use": true,
-        "hwid": null,
-        "activated_by": null
     }
 }
