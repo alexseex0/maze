@@ -31,6 +31,19 @@
             ""
         ],
         "single_use": true,
+        "hwid": "83205c988ea4041a5460afb35fdddd86d3939e6ffb9ba93df33b82123ba49b5e",
+        "activated_by": "HOME45\\user"
+    },
+    "15122002": {
+        "days": null,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": false,
         "hwid": null,
         "activated_by": null
     }
