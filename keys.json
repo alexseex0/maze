@@ -37,5 +37,16 @@
         "single_use": false,
         "hwid": null,
         "activated_by": null
+    },
+    "6": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": null,
+        "activated_by": null
     }
 }
