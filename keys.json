@@ -37,16 +37,5 @@
         "single_use": false,
         "hwid": "ca6c9201f04e8bc2dad6ab4f11e19c3134cec314c52aa9e6746fa45994437100",
         "activated_by": "DESKTOP-696HRRE\\YOLA"
-    },
-    "6": {
-        "days": 1,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot"
-        ],
-        "single_use": true,
-        "hwid": "83205c988ea4041a5460afb35fdddd86d3939e6ffb9ba93df33b82123ba49b5e",
-        "activated_by": "HOME45\\user"
     }
 }
