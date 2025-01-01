@@ -35,8 +35,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": "ca6c9201f04e8bc2dad6ab4f11e19c3134cec314c52aa9e6746fa45994437100",
-        "activated_by": "DESKTOP-696HRRE\\YOLA"
+        "hwid": null,
+        "activated_by": null
     },
     "102356": {
         "days": null,
@@ -61,7 +61,7 @@
             " BunnyHop"
         ],
         "single_use": true,
-        "hwid": null,
-        "activated_by": null
+        "hwid": "29effe904208801269b3f6fc3b8b7e3be822b47f9be680f87193bfe2e08808c1",
+        "activated_by": "WIN-449C6Q1JMPE\\user"
     }
 }
