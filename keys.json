@@ -12,19 +12,6 @@
         "hwid": "8ff419ee076d24437ba9842d6616a134505687505813f84aa8f3993202ecc65e",
         "activated_by": "NEWISH\\proph"
     },
-    "2025": {
-        "days": 5,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": true,
-        "hwid": "ee05be80ba99871b6c3256fa5ab0a9bfff29c9d75b5c147a9696a2a4f2cf13fa",
-        "activated_by": "WIN-449C6Q1JMPE\\user"
-    },
     "15122002": {
         "days": null,
         "access": [
