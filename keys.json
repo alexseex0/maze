@@ -35,8 +35,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": "16c2d7403931b57cdaa0523ef3fa16663eff6084a53651b4078e6fd7160c6377",
-        "activated_by": "HOME45\\user"
+        "hwid": null,
+        "activated_by": null
     },
     "2025": {
         "days": 2,
@@ -59,7 +59,7 @@
             "TriggerBot"
         ],
         "single_use": true,
-        "hwid": null,
-        "activated_by": null
+        "hwid": "ee05be80ba99871b6c3256fa5ab0a9bfff29c9d75b5c147a9696a2a4f2cf13fa",
+        "activated_by": "WIN-449C6Q1JMPE\\user"
     }
 }
