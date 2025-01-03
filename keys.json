@@ -9,8 +9,8 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": "8ff419ee076d24437ba9842d6616a134505687505813f84aa8f3993202ecc65e",
-        "activated_by": "NEWISH\\proph"
+        "hwid": "",
+        "activated_by": ""
     },
     "15122002": {
         "days": null,
@@ -35,8 +35,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": "16c2d7403931b57cdaa0523ef3fa16663eff6084a53651b4078e6fd7160c6377",
-        "activated_by": "HOME45\\user"
+        "hwid": "",
+        "activated_by": ""
     },
     "2025": {
         "days": 2,
@@ -48,8 +48,8 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": "ea54340fb4fb3c4e00d0acaae1ccda9fd5056cb52c74d148629310c21727d48e",
-        "activated_by": "DESKTOP-KLHIAHJ\\emils"
+        "hwid": "",
+        "activated_by": ""
     },
     "sm": {
         "days": 1,
@@ -59,7 +59,7 @@
             "TriggerBot"
         ],
         "single_use": true,
-        "hwid": "ee05be80ba99871b6c3256fa5ab0a9bfff29c9d75b5c147a9696a2a4f2cf13fa",
-        "activated_by": "WIN-449C6Q1JMPE\\user"
+        "hwid": "",
+        "activated_by": ""
     }
 }
