@@ -50,16 +50,5 @@
         "single_use": true,
         "hwid": "",
         "activated_by": ""
-    },
-    "sm": {
-        "days": 1,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot"
-        ],
-        "single_use": true,
-        "hwid": "",
-        "activated_by": ""
     }
 }
