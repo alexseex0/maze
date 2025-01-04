@@ -25,19 +25,6 @@
         "hwid": null,
         "activated_by": null
     },
-    "102356": {
-        "days": null,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": false,
-        "hwid": "16c2d7403931b57cdaa0523ef3fa16663eff6084a53651b4078e6fd7160c6377",
-        "activated_by": "HOME45\\user"
-    },
     "2025": {
         "days": 2,
         "access": [
