@@ -37,5 +37,14 @@
         "single_use": true,
         "hwid": "",
         "activated_by": ""
+    },
+    "sm": {
+        "days": 1,
+        "access": [
+            "Visual"
+        ],
+        "single_use": true,
+        "hwid": null,
+        "activated_by": null
     }
 }
