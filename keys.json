@@ -12,19 +12,6 @@
         "hwid": "",
         "activated_by": ""
     },
-    "15122002": {
-        "days": null,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": false,
-        "hwid": "ca6c9201f04e8bc2dad6ab4f11e19c3134cec314c52aa9e6746fa45994437100",
-        "activated_by": "DESKTOP-696HRRE\\YOLA"
-    },
     "2025": {
         "days": 2,
         "access": [
