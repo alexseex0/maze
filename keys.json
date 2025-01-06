@@ -22,8 +22,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": null,
-        "activated_by": null
+        "hwid": "58b121164bb1d3e75af66bd4a5f3c93d072c1b3db0afcf14eabaf8cb2005ec99",
+        "activated_by": "DESKTOP-696HRRE\\YOLA"
     },
     "2025": {
         "days": 2,
@@ -57,8 +57,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": "16c2d7403931b57cdaa0523ef3fa16663eff6084a53651b4078e6fd7160c6377",
-        "activated_by": "HOME45\\user"
+        "hwid": null,
+        "activated_by": null
     },
     "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
         "days": 30,
