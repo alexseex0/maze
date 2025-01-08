@@ -57,8 +57,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": "16c2d7403931b57cdaa0523ef3fa16663eff6084a53651b4078e6fd7160c6377",
-        "activated_by": "HOME45\\user"
+        "hwid": null,
+        "activated_by": null
     },
     "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
         "days": 30,
@@ -131,7 +131,7 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": null,
-        "activated_by": null
+        "hwid": "75b7b8236a8d476da88a058e7ea569f309dea463ec24bcb3130405f1252a9083",
+        "activated_by": "WIN-4GQBGLUSOEM\\user"
     }
 }
