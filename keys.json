@@ -120,16 +120,5 @@
         "single_use": true,
         "hwid": "",
         "activated_by": ""
-    },
-    "DES_24": {
-        "days": 1,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot"
-        ],
-        "single_use": true,
-        "hwid": "75b7b8236a8d476da88a058e7ea569f309dea463ec24bcb3130405f1252a9083",
-        "activated_by": "WIN-4GQBGLUSOEM\\user"
     }
 }
