@@ -120,5 +120,18 @@
         "single_use": true,
         "hwid": "",
         "activated_by": ""
+    },
+    "DES_24": {
+        "days": 2,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": null,
+        "activated_by": null
     }
 }
