@@ -121,19 +121,6 @@
         "hwid": "",
         "activated_by": ""
     },
-    "DES_24": {
-        "days": 2,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": true,
-        "hwid": "75b7b8236a8d476da88a058e7ea569f309dea463ec24bcb3130405f1252a9083",
-        "activated_by": "WIN-4GQBGLUSOEM\\user"
-    },
     "90185e40-0d5b-4189-afbe-a7d30cbf44d7": {
         "days": 1,
         "access": [
