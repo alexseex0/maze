@@ -12,19 +12,6 @@
         "hwid": null,
         "activated_by": null
     },
-    "2025": {
-        "days": 2,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": true,
-        "hwid": "",
-        "activated_by": ""
-    },
     "sm": {
         "days": 1,
         "access": [
