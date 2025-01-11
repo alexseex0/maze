@@ -1,17 +1,4 @@
 {
-    "15122002": {
-        "days": null,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": false,
-        "hwid": null,
-        "activated_by": null
-    },
     "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
         "days": 30,
         "access": [
