@@ -12,15 +12,6 @@
         "hwid": null,
         "activated_by": null
     },
-    "sm": {
-        "days": 1,
-        "access": [
-            "Visual"
-        ],
-        "single_use": true,
-        "hwid": null,
-        "activated_by": null
-    },
     "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
         "days": 30,
         "access": [
