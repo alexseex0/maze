@@ -127,14 +127,5 @@
         "single_use": false,
         "hwid": null,
         "activated_by": null
-    },
-    "999": {
-        "days": 1,
-        "access": [
-            ""
-        ],
-        "single_use": true,
-        "hwid": null,
-        "activated_by": null
     }
 }
