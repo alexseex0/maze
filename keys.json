@@ -294,9 +294,10 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": "",
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
         "activated_by": "topitotu",
-        "is_free": true
+        "is_free": true,
+        "activation_date": "2025-01-18T20:32:32.367400"
     },
     "13dc7dd2-6bfe-47c3-83fc-956bc102e007": {
         "days": 1,
