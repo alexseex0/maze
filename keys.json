@@ -57,8 +57,9 @@
             "TriggerBot"
         ],
         "single_use": true,
-        "hwid": "",
-        "activated_by": ""
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "activation_date": "2025-01-18T07:28:25.454539"
     },
     "90185e40-0d5b-4189-afbe-a7d30cbf44d7": {
         "days": 1,
