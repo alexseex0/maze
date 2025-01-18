@@ -350,9 +350,10 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": "",
+        "hwid": "HOME45-user",
         "activated_by": "alexej0",
-        "is_free": true
+        "is_free": true,
+        "activation_date": "2025-01-18T19:19:28.690804"
     },
     "8abe002c-65ae-4961-8fa0-24352e44762e": {
         "days": 7,
