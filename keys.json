@@ -1,1 +1,142 @@
-{"37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302", "activated_by": "HOME45\\user", "activation_date": "2025-01-19T09:10:05.855013"}, "f832ceed-55ed-4852-a1fd-7c0d582add3e": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "4f33892d447bbc53c4a76de5fec7e83b447c99f00204e84a1b91c5d8fda5fcc3", "activated_by": "WIN-449C6Q1JMPE\\user", "is_free": true, "activation_date": "2025-01-18T19:16:51.006120"}, "17ff7b79-35ac-48d3-b7fa-31f42a6e018c": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302", "activated_by": "HOME45\\user", "is_free": true, "activation_date": "2025-01-19T08:01:57.410996"}, "e7004c1a-839b-4770-8420-a3d304c25ff1": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": "alexej0", "is_free": true}, "fe6ec649-07f3-449a-a109-3b0e0cc01c69": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": "alexej0", "is_free": true}, "b0d670aa-eaae-4601-9acd-d6bdd4b1a8ef": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": "alexej0", "is_free": true}, "0c0a9794-d445-41c9-968d-f93fb149ce95": {"days": 7, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": ""}, "05183cbf-782c-4f0a-8651-fcde26ab34c6": {"days": 7, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": ""}, "a0c7729d-5aaf-458d-aaf7-1a8e62214c1e": {"days": 7, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": ""}, "91466622-f6b6-4d79-a00b-242d30a8c1e6": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": "alexej0", "is_free": true}}
+{
+    "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "activation_date": "2025-01-19T09:10:05.855013"
+    },
+    "f832ceed-55ed-4852-a1fd-7c0d582add3e": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "4f33892d447bbc53c4a76de5fec7e83b447c99f00204e84a1b91c5d8fda5fcc3",
+        "activated_by": "WIN-449C6Q1JMPE\\user",
+        "is_free": true,
+        "activation_date": "2025-01-18T19:16:51.006120"
+    },
+    "17ff7b79-35ac-48d3-b7fa-31f42a6e018c": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "is_free": true,
+        "activation_date": "2025-01-19T08:01:57.410996"
+    },
+    "e7004c1a-839b-4770-8420-a3d304c25ff1": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "fe6ec649-07f3-449a-a109-3b0e0cc01c69": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "b0d670aa-eaae-4601-9acd-d6bdd4b1a8ef": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "0c0a9794-d445-41c9-968d-f93fb149ce95": {
+        "days": 7,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "05183cbf-782c-4f0a-8651-fcde26ab34c6": {
+        "days": 7,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "a0c7729d-5aaf-458d-aaf7-1a8e62214c1e": {
+        "days": 7,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "91466622-f6b6-4d79-a00b-242d30a8c1e6": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "is_free": true,
+        "activation_date": "2025-01-19T10:23:36.286540"
+    }
+}
