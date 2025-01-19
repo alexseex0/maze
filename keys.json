@@ -1,15 +1,1 @@
-{
-    "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
-        "days": 1,
-        "access": [
-            "Visual",
-            "AimBot",
-            "TriggerBot",
-            "AutoPistol",
-            "BunnyHop"
-        ],
-        "single_use": true,
-        "hwid": "",
-        "activated_by": ""
-    }
-}
+{"37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": ""}, "17ff7b79-35ac-48d3-b7fa-31f42a6e018c": {"days": 1, "access": ["Visual", "AimBot", "TriggerBot", "AutoPistol", "BunnyHop"], "single_use": true, "hwid": "", "activated_by": "Nata_20022", "is_free": true}}
