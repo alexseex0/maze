@@ -1,0 +1,403 @@
+{
+    "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
+        "days": 30,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "25c97d0b-7a8c-4bda-a47d-a5a3c202c371": {
+        "days": 30,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "b4dc2a03-5c61-4d3b-a815-c3cf9cb23ae1": {
+        "days": 30,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "b759ff1a-7645-4e72-a4d9-742adde065c3": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "209b3b58-b3d8-4ece-ad9e-1c237ceadcee": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "activation_date": "2025-01-19T04:24:24.920370"
+    },
+    "90185e40-0d5b-4189-afbe-a7d30cbf44d7": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "44f4d5b7-2ed9-4659-b4a7-5591ab916c50": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "a68d5fb5-0f4e-43eb-95bb-997611ea3dee": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "61660459-1f5b-4979-bd07-b76b650715ba": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "eca870a3-1138-476b-9083-7c9fc5acf0ff": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "activation_date": "2025-01-16T07:25:37.947476"
+    },
+    "15122002": {
+        "days": null,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": false,
+        "hwid": "ca6c9201f04e8bc2dad6ab4f11e19c3134cec314c52aa9e6746fa45994437100",
+        "activated_by": "DESKTOP-696HRRE\\YOLA"
+    },
+    "102356": {
+        "days": null,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": false,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "activation_date": "2025-01-18T22:50:32.722142"
+    },
+    "972a707b-6dd2-41e7-8c56-4edba77b1dee": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "is_free": true,
+        "activation_date": "2025-01-18T08:16:56.043989"
+    },
+    "ff78d522-5262-47ca-a697-8e353811a28a": {
+        "days": 7,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "6fe16475-d464-470f-bbaa-9035c643d5b6": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "fb6c8107-152a-4822-b55f-22afe2d88860": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "081b2e11-6352-4eee-bd08-b0c6f2649600": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "7125dfbd-1d6c-46a6-a858-f169b8032122": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "947f3630-a9db-4cdd-b8e1-584bc4b8aeb8": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "b894727a-1ef8-41b0-bf21-ee2737280c0b": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "836c539a-9bb3-4962-9fb7-a086978aeadc": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "4416dd01-0c3a-469b-9a5b-2da785a6e072": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "alexej0",
+        "is_free": true
+    },
+    "521cc3ec-a6c4-4006-ab04-bc4d7e9155ca": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "topitotu",
+        "is_free": true,
+        "activation_date": "2025-01-18T20:32:32.367400"
+    },
+    "13dc7dd2-6bfe-47c3-83fc-956bc102e007": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "topitotu",
+        "is_free": true
+    },
+    "c1daca3f-18a1-43e9-8113-52fc58c321ad": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": "topitotu",
+        "is_free": true
+    },
+    "249accdd-bcc7-446b-9775-06f10603a647": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "topitotu",
+        "is_free": true,
+        "activation_date": "2025-01-18T20:26:31.520027"
+    },
+    "a8d76d83-a41f-4530-b2df-f8f380fc2567": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "HOME45-user",
+        "activated_by": "alexej0",
+        "is_free": true,
+        "activation_date": "2025-01-18T19:19:28.690804"
+    },
+    "8abe002c-65ae-4961-8fa0-24352e44762e": {
+        "days": 7,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    },
+    "f73655d0-a825-413c-9714-6860e2953219": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "HOME45-user",
+        "activated_by": "",
+        "is_free": true,
+        "activation_date": "2025-01-18T19:18:21.170536"
+    },
+    "f832ceed-55ed-4852-a1fd-7c0d582add3e": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "4f33892d447bbc53c4a76de5fec7e83b447c99f00204e84a1b91c5d8fda5fcc3",
+        "activated_by": "WIN-449C6Q1JMPE\\user",
+        "is_free": true,
+        "activation_date": "2025-01-18T19:16:51.006120"
+    }
+}
