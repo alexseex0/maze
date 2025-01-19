@@ -13,6 +13,21 @@
         "activated_by": "HOME45\\user",
         "activation_date": "2025-01-19T09:10:05.855013"
     },
+	    "f832ceed-55ed-4852-a1fd-7c0d582add3e": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "4f33892d447bbc53c4a76de5fec7e83b447c99f00204e84a1b91c5d8fda5fcc3",
+        "activated_by": "WIN-449C6Q1JMPE\\user",
+        "is_free": true,
+        "activation_date": "2025-01-18T19:16:51.006120"
+    },
     "17ff7b79-35ac-48d3-b7fa-31f42a6e018c": {
         "days": 1,
         "access": [
