@@ -1,0 +1,15 @@
+{
+    "37fc8e0e-ac12-4b99-a6aa-a1f7deb4d49d": {
+        "days": 1,
+        "access": [
+            "Visual",
+            "AimBot",
+            "TriggerBot",
+            "AutoPistol",
+            "BunnyHop"
+        ],
+        "single_use": true,
+        "hwid": "",
+        "activated_by": ""
+    }
+}
