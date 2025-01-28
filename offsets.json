@@ -8,14 +8,15 @@
     "dwGlobalVars": 25569960,
     "dwGlowManager": 27789520,
     "dwLocalPlayerController": 27701776,
-    "dwLocalPlayerPawn": 25619944,
+    "dwLocalPlayerPawn": 25619968,
     "dwPlantedC4": 27827616,
     "dwPrediction": 25619584,
     "dwSensitivity": 27795480,
     "dwSensitivity_sensitivity": 64,
     "dwViewAngles": 27851168,
     "dwViewMatrix": 27809936,
-    "dwViewRender": 27812360
+    "dwViewRender": 27812360,
+    "dwWeaponC4": 27384432
   },
   "engine2.dll": {
     "dwBuildNumber": 5483492,
