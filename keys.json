@@ -88,7 +88,7 @@
         "activation_date": "2025-02-26T02:25:00.073433"
     },
     "0c0a9794-d445-41c9-968d-f93fb149ce95": {
-        "days": null,
+        "days": 7,
         "access": [
             "Visual",
             "AimBot",
@@ -97,8 +97,9 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": "",
-        "activated_by": ""
+        "hwid": "2ce76a17a2a2726c6fdc1717216257aa0e1ad9f63760687c11d13e88854a15ac",
+        "activated_by": "DESKTOP-696HRRE\\YOLA",
+        "activation_date": "2025-02-28T17:53:41.889185"
     },
     "1023536": {
         "days": null,
