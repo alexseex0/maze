@@ -124,7 +124,8 @@
             "BunnyHop"
         ],
         "single_use": false,
-        "hwid": null,
-        "activated_by": null
+        "hwid": "9a46d0e929dae6811a27e408eb2797412965056fe17708d8dc442c591aea6302",
+        "activated_by": "HOME45\\user",
+        "activation_date": "2025-02-28T17:46:34.199840"
     }
 }
