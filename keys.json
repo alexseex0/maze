@@ -126,8 +126,9 @@
             "BunnyHop"
         ],
         "single_use": true,
-        "hwid": "",
-        "activated_by": ""
+        "hwid": "bf15df1811c2bca13bdf8d0d551f2443a13bcb166d4e57ff1d76d4b7c9f5976a",
+        "activated_by": "DESKTOP-4VKKMHV\\admin",
+        "activation_date": "2025-05-04T15:44:07.807515"
     },
     "5bd6114a-850f-4670-a36c-87b7963388a4": {
         "days": 30,
